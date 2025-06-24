@@ -10,7 +10,7 @@
 
 🌱 **Estudante** de programação **autodidata**, que tem a tecnologia como **hobby** e como ferramenta para criação de **soluções** no trabalho.
 
-🎯 Atualmente estou **desenvolvendo** minhas habilidades em **Python**.
+🎯 Atualmente estou **desenvolvendo** minhas habilidades em **html, css e jacascript**.
 
 💡 Estou disposto a trabalhar em projetos **freelance** e **contribuir** para projetos de **código aberto**.
 
